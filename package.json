@@ -11,6 +11,7 @@
     "bignumber.js": "git+https://github.com/frozeman/bignumber.js-nolookahead.git",
     "crypto-js": "^3.1.4",
     "utf8": "^2.1.1",
+    "web3": "^1.0.0-beta.34",
     "xhr2": "*",
     "xmlhttprequest": "*"
   },
@@ -84,6 +85,5 @@
       "url": "https://github.com/obscuren"
     }
   ],
-
   "license": "LGPL-3.0"
 }
